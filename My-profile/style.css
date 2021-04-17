@@ -1,0 +1,56 @@
+Body {
+  background-color: rgb(230, 230, 230);
+Color: rgb(30; 30);
+front-family: font-family: 'Lora', serif;;
+front-size:17px;
+}
+h1, h2, h3 {
+	front-family: font-family: 'Roboto', sans-serif;
+}
+h1 {
+  Color: #75CFB8;
+  front-family:Helvetica;
+  front-weight: 900;
+  letter-spacing: 10px;
+  front-size: 60px;
+}
+h2 {
+  Color: #4B778D;
+  front-family:Helvetica;
+  front-weight: Lighter;
+  front-size: 300px;
+}
+a {
+	text-decoration: none;
+	color: #A799B7;
+	front-size: 32px;
+	front-weight: bold;
+}
+a:hover {
+	color: #F7F3E9;
+}
+
+
+div{
+ background: white;
+ border: 2px solid black;
+ margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

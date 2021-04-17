@@ -1,0 +1,6 @@
+/*Colors and fronts */
+
+body {
+	background: rgb(230, 230; 230);
+	color: rgb(50, 50, 50);
+}
